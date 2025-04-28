@@ -1,2 +1,2 @@
 // Khasan
-// E'zoza
+// Egamberdieva E'zoza
