@@ -3,3 +3,4 @@ console.log("Asror")
 console.log("marker")
 console.log("Firdavs")
 console.log("E'zoza");
+console.log("Sobitxon")
